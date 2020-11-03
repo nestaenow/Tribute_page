@@ -1,0 +1,33 @@
+#main {
+    background-color: #ededed;
+    border-radius: 0.5%;
+    padding: 1px 20px 10px 20px;
+  }
+  #title {
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Nanum Myeongjo', serif;
+  }
+  #img-div {
+    display: grid;
+    background-color: #ffffff; 
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    justify-content: center;
+  }
+  #image {
+    padding-bottom: 10px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  #img-caption {
+    text-align: center;
+  }
+  #tribute-info {
+    font-family: 'Nanum Myeongjo', serif;
+    display: grid;
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+  }
